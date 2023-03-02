@@ -1,4 +1,4 @@
-#reverse a string using recursion in java
+//reverse a string using recursion in java
 
 public class Reverse {
 public static String reverse(String str) {
